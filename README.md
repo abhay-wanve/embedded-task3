@@ -61,4 +61,5 @@ lcd.println(tempc);
 lcd.setCursor(0,1);
 lcd.print("Temp in F = ");
 lcd.println(tempf);
+}
 ![Screenshot 2024-12-30 121354](https://github.com/user-attachments/assets/099172bd-62a6-440b-94f4-607c8aee9344)
